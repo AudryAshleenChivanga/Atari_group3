@@ -29,37 +29,6 @@ python atari-file.py
    - Termination status
 4. Terminates when goal reached or max steps exceeded
 
-# Gymnasium In-Class Activity
-
-## Overview
-This code demonstrates random action selection in OpenAI Gymnasium environments as part of a classroom activity.
-
-## Environment
-- **Environment Used**: FrozenLake-v1
-- **Objective**: Navigate from start to goal without falling in holes
-- **Actions**: 0=Left, 1=Down, 2=Right, 3=Up
-
-## Requirements
-```bash
-pip install gymnasium
-```
-
-## How to Run
-```bash
-python breakout.py
-```
-
-## What the Code Does
-1. Loads the FrozenLake-v1 environment
-2. Takes random actions in a loop
-3. Prints after each action:
-   - Action taken
-   - Next state
-   - Reward received
-   - Total reward
-   - Termination status
-4. Terminates when goal reached or max steps exceeded
-
 ## Sample Output
 ```
 (base) PS C:\Users\HP\Atari_group3> python atari-file.py      
