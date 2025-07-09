@@ -1,6 +1,8 @@
 # Atari Gymnasium In class Activity - Group 3
 This code demonstrates random action selection in OpenAI Gymnasium environments as part of a classroom activity.
 
+![our Atari output](image.png)
+
 ## Environment
 - **Environment Used**: FrozenLake-v1
 - **Objective**: Navigate from start to goal without falling in holes
