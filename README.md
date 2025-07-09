@@ -15,7 +15,7 @@ pip install gymnasium
 
 ## How to Run
 ```bash
-python breakout.py
+python atari-file.py
 ```
 
 ## What the Code Does
