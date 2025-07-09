@@ -1,4 +1,4 @@
-## Atari Gymnasium In class Activity - Group 3
+# Atari Gymnasium In class Activity - Group 3
 This code demonstrates random action selection in OpenAI Gymnasium environments as part of a classroom activity.
 
 ## Environment
@@ -39,5 +39,5 @@ The script displays step-by-step information showing:
 - Audry Chivanga
 - Humphrey Nyahoja
 - Liliane Kayitesi
-- Jean Christostome
+- Jean Chrisostome
 - Ronald Abimbola
